@@ -25,3 +25,12 @@ Blogs Published. In our college, for every semester we have to publish blog for 
 * Floyd Warshal Algorithm
 * Conclusion
 * Refrences
+
+## [Why to choose NoSql](https://whytochosenosql.blogspot.com/)
+
+* What is SQL
+* Limitations of SQL
+* What is NoSQL
+* BENEFITS OF NOSQL
+* LIMITATION OF NoSQL
+* Conclusion
