@@ -20,7 +20,7 @@ Blogs Published. In our college, for every semester we have to publish blog for 
 * Algorithm, Pseudocode,Solution, Analysis,Applications  of Every Algorithm below : 
 * Breadth-First Search (BFS)
 * Depth-First Search (DFS)
-* DJIKTRAS ALGORITHM
+* Djiktras Algorithm
 * Topological Sorting
 * Floyd Warshal Algorithm
 * Conclusion
@@ -31,6 +31,6 @@ Blogs Published. In our college, for every semester we have to publish blog for 
 * What is SQL
 * Limitations of SQL
 * What is NoSQL
-* BENEFITS OF NOSQL
-* LIMITATION OF NoSQL
+* Benifits of NOSQL
+* Limitation of NoSQL
 * Conclusion
