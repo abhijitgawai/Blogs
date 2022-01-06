@@ -12,6 +12,9 @@ Blogs Published. In our college, for every semester we have to publish blog for 
   * Release Tools 
   * Conclusion<br> 
   * Refrences<br>
+
+ 
+ <br>
  
 
 ## [Performance analysis of Graph Theoretic Algorithms](https://shyamvilaskawale.medium.com/performance-analysis-of-graph-theoretic-algorithms-84a4230da46f)
@@ -26,6 +29,8 @@ Blogs Published. In our college, for every semester we have to publish blog for 
 * Conclusion
 * Refrences
 
+<br>
+
 ## [Why to choose NoSql](https://whytochosenosql.blogspot.com/)
 
 * What is SQL
@@ -34,3 +39,17 @@ Blogs Published. In our college, for every semester we have to publish blog for 
 * Benifits of NOSQL
 * Limitation of NoSQL
 * Conclusion
+
+
+<br>
+
+## [Product Lifecycle Management](https://medium.com/@shyam.kawale18/product-lifecycle-management-plm-b0f91f85da0d)
+* What Is Product Lifecycle Management (PLM)?
+* Why Do Companies Need PLM?
+* BENEFITS OF PLM:
+* Phases of PLM
+* Product lifecycle costing
+* PLM AND ALM INTEGRATION
+* Engineering Change Request
+* Conclusion
+
